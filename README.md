@@ -1,2 +1,7 @@
-# Img-Error
-In this code , I'am facing a problem that I want to add the image in the whole page [In header(Behind navbar and herosection) ] but due to max-w-[1200px] and mx-auto . I can't do so and I also wanna keep max-w-[1200px] and mx-auto in it's original place as I want to apply it on all the section that I will make after.
+# Responsive
+I made this website and have made a lot of minor and major changes in it , infact I have made tons of changes and have spended hours in small details for good cursomer experience but I didn't add responsiveness in this website and the links does not works but th eanchors will be working soon as well as reponsiveness.
+
+#Suggestion
+You can give me any kind of suggestion or can rate me out of 10 on my Discord as I'am active on Discord.
+
+Discord-Id : Alex_Developer54
